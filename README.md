@@ -8,10 +8,9 @@ https://www.javascripttutorial.net/
 https://www.youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37
 
 ## Next watch 
-https://youtu.be/giP2uXMlv4c?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37
+https://youtu.be/suMvZWjjKbo?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&t=408
 
 # 01_basics/03_conversionOperation.js
-
 
 # 01_basics/02_dataType.js
     * "use strict"; [treat all JS code as newer version.]

@@ -21,3 +21,24 @@ let state = null;
 
 console.log(typeof undefined); //undefined
 console.log(typeof null); //object
+
+
+// Datatypes of javascript Summary
+/* Primitive datatype 
+
+1. number
+2. bigint
+3 .string
+4. boolean
+5. null
+6. undefined
+7. symbol
+8. object
+
+*/
+/* Refrence type (Non-Primitive) 
+
+1. Array
+2. Objects,
+3. Functions
+*/
