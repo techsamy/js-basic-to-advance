@@ -42,3 +42,28 @@ console.log(typeof null); //object
 2. Objects,
 3. Functions
 */
+
+// ****************** Stack & Heap ********************
+
+let myWebName = "narayansinghdotcom";
+let anotherName = myWebName;
+anotherName = "chaiaurcode";
+
+console.log(myWebName);
+console.log(anotherName);
+
+let userOne = {
+    email: "amit@gmail.com",
+    upi: "ami@ybl"
+}
+
+let userTwo = userOne;
+userTwo.email = "samy@tech.com";
+
+console.log(userOne.email);
+console.log(userTwo.email);
+
+/* NOTES
+    1. In stack we always get a copy of that value
+    2. In Heap we always get the refrence of that value.
+*/
