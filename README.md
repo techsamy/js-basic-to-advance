@@ -8,7 +8,7 @@ https://www.javascripttutorial.net/
 https://www.youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37
 
 ## Next watch 
-https://youtu.be/suMvZWjjKbo?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&t=408
+https://youtu.be/cejBux2gtEE?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37
 
 # 01_basics/03_conversionOperation.js
 
